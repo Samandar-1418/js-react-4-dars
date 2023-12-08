@@ -19,8 +19,9 @@ export default function Sing() {
             <Selescts></Selescts>
             <InputOne></InputOne>
             <InputTwo></InputTwo>
-            <Selectthree></Selectthree>
+             <SelectFour></SelectFour>
             <Checkbooks></Checkbooks>
+            <Selectthree></Selectthree>
     </div>
   )
 }

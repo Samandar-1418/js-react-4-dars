@@ -16,7 +16,7 @@ export default function Selescts() {
      </div>
 
      <div className="selectContainer">
-     <label for="Shahar">Valyuta<span>*</span></label>
+     <label for="Darajasi">Darajasi<span>*</span></label>
 
 <select name="Valyuta " id="Valyuta ">
   <option value="Currency ">Currency</option>
