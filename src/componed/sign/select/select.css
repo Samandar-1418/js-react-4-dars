@@ -1,0 +1,52 @@
+label {
+    color: var(--Dark, #2A2941);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Circular Std;
+font-size: 14px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+margin-bottom: 20px;
+}
+span {
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Circular Std;
+font-size: 14px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+margin-left: 15px;
+}
+.selectContainer {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+select {
+    display: flex;
+    width: 219px;
+    height: 56px;
+    padding: 18px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 14px;
+    border: 1px solid #E3E3E3;
+}
+body {
+    display: flex;
+}
+.Container{
+    display: flex;
+    flex-direction: column;
+}
+option, select {
+
+        color: var(--Gray, #6E6D77);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Circular Std;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+    
+}

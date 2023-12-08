@@ -1,0 +1,11 @@
+div  {
+    display: flex;
+width: 1140px;
+justify-content: space-between;
+align-items: center;
+margin: 0 auto;
+background-color: white;
+margin-top: 20px;
+padding: 20px;
+border-radius: 15px;
+}
