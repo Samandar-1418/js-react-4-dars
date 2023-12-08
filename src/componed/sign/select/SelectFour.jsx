@@ -1,6 +1,6 @@
 import React from 'react'
 import './select.css'
-export default function Selescts() {
+export default function SelectFour() {
   return (
     <div className='Container'>
           <div className="selectInfoContainer">
@@ -8,6 +8,7 @@ export default function Selescts() {
      <label for="Min ">Minimal Maosh <span>*</span></label>
 
 <select name="Min" id="Min">
+  <option value="min">min</option>
   <option value="2 milliom">2 million</option>
   <option value="3 million">3 million</option>
   <option value="5 million">5 million</option>
@@ -19,6 +20,7 @@ export default function Selescts() {
      <label for="Max">Maximal maosh<span>*</span></label>
 
 <select name="Max " id="Max ">
+  <option value="max ">max</option>
   <option value="10 million ">10 million</option>
   <option value="30 million">30 million</option>
   <option value="50 million">50 million</option>

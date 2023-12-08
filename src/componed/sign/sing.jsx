@@ -7,6 +7,7 @@ import InputTwo from './Input/inputTwo'
 import Selescts from './select/SelectTwo'
 import Selectthree from './select/SelectThree'
 import Checkbooks from './chechbooks/checkbooks'
+import SelectFour from './select/selectFour'
 export default function Sing() {
   return (
     <div className='container'>
